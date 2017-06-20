@@ -1,0 +1,2 @@
+# arientoscript
+Installs basic software
